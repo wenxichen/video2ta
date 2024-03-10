@@ -61,3 +61,4 @@ Example REST API body to generate text base on images and text input (based on A
 - include image in RAG
   - image understanding
   - present related image in response
+- generation from textbook with image and text (e.g., [Solar Layout Analyzer](https://console.upstage.ai/playground/la))
