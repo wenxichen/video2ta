@@ -4,7 +4,7 @@ This is an simplified attempt to generate a structured chatbot from a video. Ins
 
 I am currently focus on educational videos. The current example used is [this](https://youtu.be/vStJoetOxJg?feature=shared) introductory machine learning video by Andrew Ng.
 
-A simple example TA chatbot is generated on the [Juji](https://juji.io/) platform.
+A simple example TA chatbot is generated on the [Juji](https://juji.io/) platform. Here's the generated [simple structured TA chatbot](https://juji.ai/pre-chat/65edf225-a814-449e-9f63-4aab992ddbf8).
 
 ![generated tutorial step with frame image](img/juji_screenshot_1.png?raw=true "Screenshot of generated tutorial step with frame image")
 
