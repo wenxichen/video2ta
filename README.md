@@ -4,7 +4,9 @@ This is an simplified attempt to generate a structured chatbot from a video. Ins
 
 I am currently focus on educational videos. The current example used is [this](https://youtu.be/vStJoetOxJg?feature=shared) introductory machine learning video by Andrew Ng.
 
-A simple example TA chatbot is generated on the [Juji](https://juji.io/) platform. 
+A simple example TA chatbot is generated on the [Juji](https://juji.io/) platform.
+
+![generated tutorial step with frame image](img/juji_screenshot_1.png?raw=true "Screenshot of generated tutorial step with frame image")
 
 Prompt to find best image go with the video on [Claude 3](https://console.anthropic.com).
 ```
@@ -21,6 +23,7 @@ Transcript
 ```
 
 ## Future Work
+- test longer videos and more cases
 - integrate with RAG in the chatbot
 - give reference to video timestamp in tutorial
 - use LLM to select better image/frame for each tutorial
