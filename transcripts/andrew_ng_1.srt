@@ -1,0 +1,244 @@
+1
+00:00:00,000 --> 00:00:06,160
+Welcome to machine learning.
+
+2
+00:00:06,160 --> 00:00:07,840
+What is machine learning?
+
+3
+00:00:07,840 --> 00:00:11,840
+You probably use it many times a day without even knowing it.
+
+4
+00:00:11,840 --> 00:00:14,360
+Anytime you want to find out something like,
+
+5
+00:00:14,360 --> 00:00:16,120
+how do I make a sushi roll?
+
+6
+00:00:16,120 --> 00:00:18,320
+You can do a web search on Google,
+
+7
+00:00:18,320 --> 00:00:20,639
+Bing, or Baidu to find out.
+
+8
+00:00:20,639 --> 00:00:22,760
+That works so well because
+
+9
+00:00:22,760 --> 00:00:27,120
+the machine learning software has figured out how to rank web pages.
+
+10
+00:00:27,559 --> 00:00:30,520
+Or when you upload pictures to Instagram or Snapchat,
+
+11
+00:00:30,520 --> 00:00:32,119
+and think to yourself,
+
+12
+00:00:32,119 --> 00:00:35,240
+I want to tag my friends so they can see their pictures.
+
+13
+00:00:35,240 --> 00:00:38,520
+Well, these apps can recognize your friends in your pictures
+
+14
+00:00:38,520 --> 00:00:40,240
+and label them as well.
+
+15
+00:00:40,240 --> 00:00:42,000
+That's also machine learning.
+
+16
+00:00:42,919 --> 00:00:45,959
+Or if you've just finished watching a Star Wars movie
+
+17
+00:00:45,959 --> 00:00:47,400
+on the video streaming service,
+
+18
+00:00:47,400 --> 00:00:50,720
+and you think, what are the similar movies that I watch?
+
+19
+00:00:50,720 --> 00:00:54,000
+Well, the streaming service will likely use machine learning
+
+20
+00:00:54,000 --> 00:00:56,560
+to recommend something that you might like.
+
+21
+00:00:56,560 --> 00:00:59,160
+Each time you use voice to text on your phone
+
+22
+00:00:59,160 --> 00:01:00,480
+to write a text message.
+
+23
+00:01:00,480 --> 00:01:02,320
+Hey, Andrew, how's it going?
+
+24
+00:01:02,320 --> 00:01:03,560
+Or tell your phone,
+
+25
+00:01:03,560 --> 00:01:05,839
+hey Siri, play a song by Rihanna.
+
+26
+00:01:05,839 --> 00:01:07,480
+Or ask your other phone,
+
+27
+00:01:07,480 --> 00:01:10,519
+okay Google, show me Indian restaurants near me.
+
+28
+00:01:11,680 --> 00:01:13,720
+That's also machine learning.
+
+29
+00:01:13,720 --> 00:01:16,160
+Each time you receive an email titled,
+
+30
+00:01:16,160 --> 00:01:19,160
+congratulations, you've won a million dollars.
+
+31
+00:01:19,160 --> 00:01:21,160
+Well, maybe you're rich, congratulations.
+
+32
+00:01:21,160 --> 00:01:23,559
+Or more likely your email service
+
+33
+00:01:23,559 --> 00:01:25,959
+will probably flag it as spam.
+
+34
+00:01:25,959 --> 00:01:29,800
+That too is an application of machine learning.
+
+35
+00:01:29,800 --> 00:01:32,599
+Beyond consumer applications that you might use,
+
+36
+00:01:32,599 --> 00:01:36,000
+AI is also rapidly making its way into big companies
+
+37
+00:01:36,000 --> 00:01:38,879
+and into industrial applications.
+
+38
+00:01:38,879 --> 00:01:42,599
+For example, I'm deeply concerned about climate change,
+
+39
+00:01:42,599 --> 00:01:45,320
+and I'm glad to see that machine learning
+
+40
+00:01:45,320 --> 00:01:50,080
+is already hoping to optimize wind turbine power generation.
+
+41
+00:01:50,080 --> 00:01:51,599
+Or in healthcare,
+
+42
+00:01:51,599 --> 00:01:53,919
+it's starting to make its way into hospitals
+
+43
+00:01:53,919 --> 00:01:57,559
+to help doctors make accurate diagnoses.
+
+44
+00:01:57,559 --> 00:01:59,680
+Or recently at Learning AI,
+
+45
+00:01:59,680 --> 00:02:00,959
+I've been doing a lot of work
+
+46
+00:02:00,959 --> 00:02:03,320
+putting computer vision into factories
+
+47
+00:02:03,320 --> 00:02:07,160
+to help inspect if something coming off the assembly line
+
+48
+00:02:07,160 --> 00:02:08,399
+has any defects.
+
+49
+00:02:09,279 --> 00:02:11,360
+That's machine learning.
+
+50
+00:02:11,360 --> 00:02:13,880
+It's a science of getting computers to learn
+
+51
+00:02:13,880 --> 00:02:17,039
+without being explicitly programmed.
+
+52
+00:02:17,039 --> 00:02:20,080
+In this class, you learn about machine learning
+
+53
+00:02:20,080 --> 00:02:24,119
+and get to implement machine learning in code yourself.
+
+54
+00:02:24,119 --> 00:02:25,679
+Millions of others have taken
+
+55
+00:02:25,679 --> 00:02:27,639
+the earlier version of this course,
+
+56
+00:02:27,639 --> 00:02:30,679
+which is a course that led to the founding of Coursera.
+
+57
+00:02:30,679 --> 00:02:32,639
+And many learners ended up building
+
+58
+00:02:32,639 --> 00:02:34,600
+exciting machine learning systems
+
+59
+00:02:34,600 --> 00:02:38,360
+or even pursuing very successful careers in AI.
+
+60
+00:02:38,360 --> 00:02:41,119
+I'm excited that you're on this journey with me.
+
+61
+00:02:41,119 --> 00:02:42,960
+Welcome, and let's get started.
+
